@@ -23,3 +23,5 @@ BX-Books:
 BX-Book-Ratings:
 - It contains the book rating information. Ratings are either explicitly expressed on a scale from 1-10 (higher values denoting higher appreciation) or implicitly expressed by 0.
 
+### Files Location
+- http://www.edureka.co/medias/2yshqzwnlp/download?media_file_id=78333913
